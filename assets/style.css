@@ -2,8 +2,8 @@
 
 :root{
   --text-color: #ffffff;
-  --card-front-color: #51BBA9;
-  --card-back-color: #144480;
+  --card-front-color: hsl(115, 18%, 52%);
+  --card-back-color: #000000;
 }
 
 body {
@@ -29,7 +29,7 @@ body {
   flex-basis: calc(33% - 6rem);
 }
 
-artao__conteudo p {
+.cartao__conteudo p {
   padding: 4rem;
 }
 
